@@ -60,7 +60,7 @@ b {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 2px solid #014944;
+  border: 2px solid black;
 }
 
 .skills {
@@ -79,5 +79,3 @@ b {
 #footer {
   background-color: rgb(0, 0, 0);
 }
-
-
