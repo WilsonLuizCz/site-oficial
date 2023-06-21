@@ -78,6 +78,9 @@ b {
   color: black;
   transition-delay: 0.3s;
 }
+.png1{
+  width: 110px;
+}
 
 #footer {
   background-color: rgb(0, 0, 0);
