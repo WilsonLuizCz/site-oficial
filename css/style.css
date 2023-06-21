@@ -73,7 +73,7 @@ b {
 #icones {
   color: #00a79d;
 }
-#habilidades{
+#habilidades {
   font-size: medium;
   font-weight: 600;
   line-height: 10px;
@@ -84,22 +84,36 @@ b {
   color: black;
   transition-delay: 0.3s;
 }
-.ico2{
+.ico2 {
   color: black;
 }
-.projetos{
-  background-image: linear-gradient(gray,rgb(99, 99, 99),rgb(73, 71, 71),rgb(53, 52, 52),rgb(44, 44, 44));
+.projetos {
+  background-image: linear-gradient(
+    gray,
+    rgb(99, 99, 99),
+    rgb(73, 71, 71),
+    rgb(53, 52, 52),
+    rgb(44, 44, 44)
+  );
 }
-.tituloProjetos{
+.tituloProjetos {
   color: black;
   font-family: "Poppins", sans-serif;
 }
-.job{
+.job {
   color: black;
-  font-family: 'Poppins',sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-#foto2{
+
+#foto2 {
   width: 250px;
+}
+#ver {
+  text-decoration: none;
+  color: #01cec2;
+}
+#ver:hover {
+  color: #025c56;
 }
 #footer {
   background-color: rgb(0, 0, 0);
