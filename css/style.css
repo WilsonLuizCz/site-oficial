@@ -87,7 +87,20 @@ b {
 .ico2{
   color: black;
 }
-
+.projetos{
+  background-image: linear-gradient(gray,rgb(99, 99, 99),rgb(73, 71, 71),rgb(53, 52, 52),rgb(44, 44, 44));
+}
+.tituloProjetos{
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+.job{
+  color: black;
+  font-family: 'Poppins',sans-serif;
+}
+#foto2{
+  width: 250px;
+}
 #footer {
   background-color: rgb(0, 0, 0);
 }
