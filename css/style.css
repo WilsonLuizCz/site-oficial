@@ -28,7 +28,7 @@ body {
 }
 
 #contatos {
-  color: #dc3545;
+  color: #ffc107;
 }
 
 #section1 {
@@ -67,10 +67,16 @@ b {
 }
 
 .skills {
-  color: #dc3545;
+  color: black;
 }
 
 #icones {
+  color: #00a79d;
+}
+#habilidades{
+  font-size: medium;
+  font-weight: 600;
+  line-height: 10px;
   color: #00a79d;
 }
 
@@ -78,8 +84,8 @@ b {
   color: black;
   transition-delay: 0.3s;
 }
-.png1{
-  width: 110px;
+.ico2{
+  color: black;
 }
 
 #footer {
