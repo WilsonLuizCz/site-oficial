@@ -104,12 +104,12 @@ b {
   color: black;
   font-family: "Poppins", sans-serif;
 }
-#link{
+#link {
   text-decoration: none;
   color: #ffc107;
   transition-delay: 0.3s;
 }
-#link:hover{
+#link:hover {
   color: black;
 }
 #foto2 {
