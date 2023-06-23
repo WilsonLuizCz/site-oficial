@@ -28,7 +28,7 @@ body {
 }
 
 #contatos {
-  color: #ffc107;
+  color: #dc3545;
 }
 
 #section1 {
@@ -106,7 +106,7 @@ b {
 }
 #link {
   text-decoration: none;
-  color: #ffc107;
+  color: #dc3545;
   transition-delay: 0.3s;
 }
 .cor1 {
@@ -114,7 +114,7 @@ b {
   text-decoration: none;
 }
 .negro {
-  color: rgb(83, 83, 83);
+  color: rgb(116, 109, 109);
   text-decoration: none;
 }
 #foto2 {
