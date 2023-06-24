@@ -74,7 +74,7 @@ b {
   color: #00a79d;
 }
 #habilidades {
-  font-family: 'Poppins',sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: medium;
   font-weight: 600;
   color: #00a79d;
@@ -120,12 +120,12 @@ b {
 #foto2 {
   width: 250px;
 }
-.link2{
+.link2 {
   text-decoration: none;
   color: #01cec2;
   transition-delay: 0.3s;
 }
-.link2:hover{
+.link2:hover {
   color: #025c56;
 }
 #footer {
