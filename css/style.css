@@ -120,6 +120,16 @@ b {
 #foto2 {
   width: 250px;
 }
+.Contatos {
+  background-image: linear-gradient(
+    #dc3545,
+    #a32431,
+    #8a1b26,
+    #630f18,
+    rgb(73, 11, 11)
+  );
+  font-family: "Poppins", sans-serif;
+}
 .link2 {
   text-decoration: none;
   color: #01cec2;
@@ -127,6 +137,17 @@ b {
 }
 .link2:hover {
   color: #025c56;
+}
+.Faq {
+  background-image: linear-gradient(
+    #02f4e7,
+    #01cec2,
+    #00a79d,
+    #018077,
+    #025c56,
+    #014944
+  );
+  font-family: "Poppins", sans-serif;
 }
 #footer {
   background-color: rgb(0, 0, 0);
