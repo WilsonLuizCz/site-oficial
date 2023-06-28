@@ -89,9 +89,9 @@ b {
 }
 .projetos {
   background-image: linear-gradient(
+    rgb(43, 43, 43),
+    rgb(34, 34, 34),
     rgb(19, 19, 19),
-    rgb(14, 14, 14),
-    rgb(14, 13, 13),
     rgb(12, 12, 12),
     rgb(5, 5, 5)
   );
@@ -137,17 +137,6 @@ b {
 }
 .link2:hover {
   color: #025c56;
-}
-.Faq {
-  background-image: linear-gradient(
-    #02f4e7,
-    #01cec2,
-    #00a79d,
-    #018077,
-    #025c56,
-    #014944
-  );
-  font-family: "Poppins", sans-serif;
 }
 
 #footer {
