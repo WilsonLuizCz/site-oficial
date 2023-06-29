@@ -8,12 +8,9 @@ body {
   font-family: "Poppins", sans-serif;
   background-image: linear-gradient(
     #02f4e7,
-    #00b6ad,
-    #004d49,
-    #00302d,
-    #00201f,
-    #001312,
-    #000000
+    #02f4e7,
+    #02f4e7
+    
   );
   background-repeat: no-repeat;
   color: white;
@@ -22,13 +19,27 @@ body {
 #sessao1 {
   font-family: "Poppins", sans-serif;
   color: white;
-  background-image: url(/img/astronauta.svg);
+  /*background-image: url(/img/astronauta.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
+  */
 }
-
+.video1 {
+  padding-top: 30px;
+  padding-bottom: 70px;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  background-size: contain;
+  background-image: url(/img/astronautatop.mp4) no-repeat center;
+  z-index: -100;
+}
 #menu1 {
   background-color: black;
 }
