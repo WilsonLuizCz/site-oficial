@@ -29,9 +29,7 @@ body {
   z-index: -100;
   background-size: cover;
 }
-#div1 {
-  height: 100vh;
-}
+
 #section1 {
   font-family: "Poppins", sans-serif;
   color: white;
