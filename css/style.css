@@ -19,7 +19,8 @@ body {
   color: white;
 }
 
-
+#img1 {
+  width: 70px;}
 #img2 {
   width: 90px;
 }
