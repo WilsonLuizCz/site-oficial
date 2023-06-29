@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
-.bgVideo {
+#bgVideo {
   position: absolute;
   right: 0;
   bottom: 0;
