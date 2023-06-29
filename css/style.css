@@ -6,16 +6,23 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-image: linear-gradient(
-    #02f4e7,
-    #01cec2,
-    #00a79d,
-    #018077,
-    #025c56,
-    #014944
-  );
+  background-image: linear-gradient(#02f4e7, #02f4e7, #02f4e7, #02f4e7);
   background-repeat: no-repeat;
   color: white;
+}
+.bgVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  min-width: 100%;
+  z-index: -100;
+  background-size: cover;
+}
+#div1 {
+  height: 100vh;
 }
 #section1 {
   font-family: "Poppins", sans-serif;
