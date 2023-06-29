@@ -9,9 +9,9 @@ body {
   background-image: linear-gradient(
     #02f4e7,
     #00b6ad,
-    #006661,
-    #006b66,
-    #003b38,
+    #004d49,
+    #00302d,
+    #00201f,
     #001312,
     #000000
   );
@@ -19,7 +19,7 @@ body {
   color: white;
 }
 
-#section1 {
+#sessao1 {
   font-family: "Poppins", sans-serif;
   color: white;
   background-image: url(/img/astronauta.svg);
@@ -27,7 +27,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  
 }
 
 #menu1 {
