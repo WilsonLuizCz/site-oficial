@@ -22,6 +22,12 @@ body {
 #section1 {
   font-family: "Poppins", sans-serif;
   color: white;
+  background-image: url(/img/astronauta.svg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  
 }
 
 #menu1 {
