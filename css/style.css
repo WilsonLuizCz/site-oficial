@@ -33,6 +33,7 @@ background-size: cover;
 #sessao1 {
   font-family: "Poppins", sans-serif;
   color: white;
+  position: relative;
 
 }
 
