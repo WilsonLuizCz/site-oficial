@@ -18,7 +18,9 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
-
+#img0{
+  width: 30px;
+}
 #img1 {
   width: 70px;}
 #img2 {
