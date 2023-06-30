@@ -27,7 +27,14 @@ body {
   width: 90px;
 }
 #img3 {
-  width: 20%;
+  width: 60px;
+}
+#img4{
+  width: 70px;
+}
+#imgbanner{
+  width: 100%;
+  
 }
 #sessao1 {
   font-family: "Poppins", sans-serif;
