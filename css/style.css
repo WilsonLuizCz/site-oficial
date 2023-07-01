@@ -18,23 +18,20 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
-#img0{
+#img0 {
   width: 30px;
 }
 #img1 {
-  width: 50px;}
+  width: 50px;
+}
 #img2 {
   width: 90px;
 }
 #img3 {
   width: 60px;
 }
-#img4{
+#img4 {
   width: 70px;
-}
-#imgbanner{
-  width: 80%;
-  
 }
 #sessao1 {
   font-family: "Poppins", sans-serif;
