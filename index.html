@@ -358,11 +358,17 @@
           </div>
       </div>
 
+ <!--Form-->
+
       <div class="container mb-4">
+
         <h5 class="text-info mb-4">
-          Deixe seu nome e email e receba nossas <b>novidades</b> e <b>ofertas</b> !</h5> 
+          Deixe seu nome e email e receba nossas <b>novidades</b> e <b>ofertas</b> !</h5>
+
         <form action="https://formsubmit.co/wilson.luiz.583@gmail.com" method="POST">
 
+          <input type="hidden" name="_next" value="">
+          
           <label for="name" class="form-label text-light">Nome :</label><br>
 
           <input type="text" name="name" required class="form-control w-50"><br>
@@ -370,8 +376,11 @@
           <label for="email" class="form-label text-light">Email :</label><br>
 
           <input type="email" name="email" required class="form-control w-50"><br>
-
-          <button type="submit" class="btn btn-info mt-2 mb-2 text-light">Enviar</button>
+          
+          <label for="exampleFormControlTextarea1" class="form-label text-light">Digite sua menssagem :</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          
+          <button type="submit" class="btn btn-info mt-4 mb-2 text-light">Enviar</button>
 
      </form>
 
